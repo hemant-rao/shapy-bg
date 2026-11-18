@@ -55,7 +55,7 @@
     "node": ">=20.19"
   },
   "dependencies": {
-    "playwright": "^1.65.0"
+    "playwright": "^1.65.1"
   },
   "peerDependencies": {
     "shapy-bg": ">=1.0.0"
